@@ -8,10 +8,18 @@
 
 ![Thiago ribeiro github stats](https://github-stats.vercel.app/api?username=ThiiagoDevs&show_icons=true&theme=dracula)
 
+##
 
-## Tecnolodia, que eu uso no meu dia
+<div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiiagoDevs&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+
+## Tecnolodia que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<br>
 
-Apaixonado por tecnologia e programação
+Apaixonado por tecnologia e programação.
