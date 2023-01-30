@@ -1,5 +1,7 @@
 ### Hi there :rocket: eu sou Thiago Ribeiro 🙋‍♂️
 Apaixonado por tecnologia e programação.
+Sempre em busca de conhecimento e desenvolvimento!
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/thiiago.code)
