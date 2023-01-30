@@ -1,4 +1,5 @@
 ### Hi there :rocket: eu sou Thiago Ribeiro 🙋‍♂️
+Apaixonado por tecnologia e programação.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/thiiago.code)
@@ -13,6 +14,3 @@
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<br>
-Apaixonado por tecnologia e programação.
-
