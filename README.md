@@ -1,4 +1,4 @@
-### Olá eu sou Thiago Ribeiro 🙋‍♂️
+### Hi there :rocket: eu sou Thiago Ribeiro 🙋‍♂️
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/thiiago.code)
