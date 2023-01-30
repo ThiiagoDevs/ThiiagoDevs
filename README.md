@@ -1,5 +1,6 @@
 ### Hi there :rocket: eu sou Thiago Ribeiro 🙋‍♂️
 Apaixonado por tecnologia e programação.
+<br>
 Sempre em busca de conhecimento e desenvolvimento!
 
 
